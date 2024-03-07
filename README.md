@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creating New Things
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : https://www.linkedin.com/in/amit-kumar-j0shi/
+- 📫 How to reach me :
 
 
 <!---
